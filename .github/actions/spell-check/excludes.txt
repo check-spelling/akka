@@ -1,0 +1,12 @@
+\.crt$
+\.gif$
+\.gitignore$
+\.graffle$
+\.jar$
+\.keys?$
+\.p12$
+\.pem$
+\.png$
+\.svg$
+/keystore$
+/truststore$
